@@ -1,0 +1,21 @@
+
+#page-title, .center-text{
+	text-align: center;
+}
+
+.form-input{
+	width: 50%;
+}
+.error{
+	color: red;
+}
+
+.comment{
+	color: #4C4C4C;
+	margin-right: 30px;
+}
+
+.add_comment_form{
+	margin-top: 15px;
+}
+
